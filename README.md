@@ -1,4 +1,4 @@
-# Instructions
+## Instructions
 
 ### Files necessary for the quick execution of the software are located in the "model" folder:
 
@@ -19,3 +19,6 @@ These files explain the creation of some files in the "model" folder.
 
 ### Others
 - requirements.txt: required packages for the software
+
+## Sample Responses
+![](demonstration.jpg)
